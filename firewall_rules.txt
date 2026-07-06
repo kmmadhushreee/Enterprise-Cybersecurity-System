@@ -1,4 +1,3 @@
-Allow HTTP
-Allow HTTPS
+Block HTTP
+Block HTTPS
 Allow SSH
-Firewall Logging Enabled

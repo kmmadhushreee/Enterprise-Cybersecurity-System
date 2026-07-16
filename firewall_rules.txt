@@ -1,3 +1,3 @@
-Block HTTP
-Block HTTPS
-Allow SSH
+"Allow HTTP" 
+"Allow HTTPS" 
+"Allow SSH" 
